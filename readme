@@ -1,0 +1,11 @@
+Crazy 8's game
+
+Written in .NET 4.5 and using WinForms
+
+Play a game of Crazy 8s against the Computer in Random hands or a quasi-random preset hand where both parties are distributed crazy 8s.
+
+What I learned: 
+  Used the symbolic debugger to help locate and solve logic issues.
+  Used inheritance to reuse code from prior card game.
+  Error Handling incase of missing card files.
+  Used OOP concepts to write limit code repetition.
